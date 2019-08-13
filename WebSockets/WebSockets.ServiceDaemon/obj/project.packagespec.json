@@ -1,0 +1,87 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.ServiceDaemon/WebSockets.ServiceDaemon.csproj",
+    "projectName": "WebSockets.ServiceDaemon",
+    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.ServiceDaemon/WebSockets.ServiceDaemon.csproj",
+    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.ServiceDaemon/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj": {
+            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Configuration.CommandLine": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Hosting": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging.Configuration": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Logging.Console": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Options": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.Options.ConfigurationExtensions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

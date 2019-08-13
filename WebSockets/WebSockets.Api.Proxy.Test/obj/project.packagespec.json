@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy.Test/WebSockets.Api.Proxy.Test.csproj",
+    "projectName": "WebSockets.Api.Proxy.Test",
+    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy.Test/WebSockets.Api.Proxy.Test.csproj",
+    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy.Test/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Hosting": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Http.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Server.Kestrel": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.WebSockets": {
+          "target": "Package",
+          "version": "[2.2.1, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "System.Runtime.InteropServices": {
+          "target": "Package",
+          "version": "[4.3.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

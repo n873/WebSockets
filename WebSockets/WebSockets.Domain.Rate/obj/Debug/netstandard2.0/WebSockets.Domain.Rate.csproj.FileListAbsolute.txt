@@ -1,0 +1,9 @@
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.deps.json
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.csproj.CoreCompileInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.AssemblyInfoInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.AssemblyInfo.cs
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.csprojAssemblyReference.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb

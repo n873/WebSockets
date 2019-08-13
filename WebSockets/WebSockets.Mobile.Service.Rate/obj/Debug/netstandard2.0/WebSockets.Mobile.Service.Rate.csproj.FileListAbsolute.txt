@@ -1,0 +1,12 @@
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.deps.json
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.csprojAssemblyReference.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.csproj.CoreCompileInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.AssemblyInfoInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.AssemblyInfo.cs
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.csproj.CopyComplete
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Rate\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Rate.pdb

@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
+        "projectName": "WebSockets.Domain.Rate",
+        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
+        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+        "projectName": "WebSockets.Mobile.Service.Rate",
+        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
+                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

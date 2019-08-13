@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.ExampleClient/WebSockets.Api.ExampleClient.csproj",
+    "projectName": "WebSockets.Api.ExampleClient",
+    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.ExampleClient/WebSockets.Api.ExampleClient.csproj",
+    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.ExampleClient/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Common/WebSockets.Common.csproj": {
+            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Common/WebSockets.Common.csproj"
+          },
+          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj": {
+            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

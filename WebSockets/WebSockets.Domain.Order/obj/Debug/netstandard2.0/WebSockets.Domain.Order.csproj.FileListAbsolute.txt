@@ -1,0 +1,9 @@
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.deps.json
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.csprojAssemblyReference.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.csproj.CoreCompileInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.AssemblyInfoInputs.cache
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.AssemblyInfo.cs
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Order\obj\Debug\netstandard2.0\WebSockets.Domain.Order.pdb

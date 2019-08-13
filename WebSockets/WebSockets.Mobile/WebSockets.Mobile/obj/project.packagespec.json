@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/WebSockets.Mobile.csproj",
+    "projectName": "WebSockets.Mobile",
+    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/WebSockets.Mobile.csproj",
+    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj": {
+            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "Xamarin.Essentials": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Xamarin.Forms": {
+          "target": "Package",
+          "version": "[4.0.0.425677, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

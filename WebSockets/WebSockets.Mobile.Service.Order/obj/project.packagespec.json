@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj",
+    "projectName": "WebSockets.Mobile.Service.Order",
+    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj",
+    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj": {
+            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

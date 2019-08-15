@@ -1,17 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Common/WebSockets.Common.csproj",
+    "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
     "projectName": "WebSockets.Common",
-    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Common/WebSockets.Common.csproj",
-    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Common/obj/",
+    "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
+    "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"
     ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {}
@@ -26,6 +31,14 @@
   "frameworks": {
     "netstandard2.0": {
       "dependencies": {
+        "Microsoft.AspNetCore.Http.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.Extensions.DependencyInjection.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
         "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",

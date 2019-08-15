@@ -1,2 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Int64 x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/AutoNamingCompletedVersion/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
+	<s:Int64 x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/AutoNamingCompletedVersion/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=587e18bd_002D5d72_002D46b5_002Da442_002D6769d731b8be_0023WebSockets_002EMobile_002EAndroid/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=d402a86f_002D127e_002D489f_002D9e6b_002D966ccd52664a_0023WebSockets_002EMobile_002EiOS/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e8a9feff_002D2d11_002D497a_002D9e85_002D55b1a04a36f1_0023WebSockets_002EMobile/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

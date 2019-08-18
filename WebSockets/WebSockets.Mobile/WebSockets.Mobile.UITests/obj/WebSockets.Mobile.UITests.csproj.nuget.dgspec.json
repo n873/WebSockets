@@ -4,6 +4,7 @@
     "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -380,6 +381,9 @@
       }
     },
     "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj": {
+=======
+    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj": {
+>>>>>>> master
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj",
@@ -390,7 +394,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -405,6 +409,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
+<<<<<<< HEAD
           "net471": {
             "projectReferences": {
               "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj": {
@@ -414,6 +419,10 @@
                 "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj"
               }
             }
+=======
+          "net461": {
+            "projectReferences": {}
+>>>>>>> master
           }
         }
       },
@@ -442,6 +451,7 @@
           "#import": []
         }
       }
+<<<<<<< HEAD
     },
     "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {
       "version": "1.0.0",
@@ -514,6 +524,8 @@
           "warn": true
         }
       }
+=======
+>>>>>>> master
     }
   }
 }

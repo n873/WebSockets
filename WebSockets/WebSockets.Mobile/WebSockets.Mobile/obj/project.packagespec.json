@@ -1,22 +1,33 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/WebSockets.Mobile.csproj",
+    "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
     "projectName": "WebSockets.Mobile",
-    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/WebSockets.Mobile.csproj",
-    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile/WebSockets.Mobile/obj/",
+    "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
+    "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"
     ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj": {
-            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj"
+          "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
+            "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
+          },
+          "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj": {
+            "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj"
+          },
+          "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
+            "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj"
           }
         }
       }
@@ -42,7 +53,7 @@
         },
         "Xamarin.Forms": {
           "target": "Package",
-          "version": "[4.0.0.425677, )"
+          "version": "[4.1.0.673156, )"
         }
       },
       "imports": [

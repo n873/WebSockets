@@ -55,14 +55,13 @@ D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iO
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\Calabash.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.Service.Order.dll
-D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.pdb
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.Service.Order.pdb
-D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.pdb
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.csproj.CopyComplete
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.exe
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.pdb
+<<<<<<< HEAD
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.exe
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.pdb
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
@@ -133,3 +132,12 @@ D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.csproj.CopyComplete
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.exe
 D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\obj\iPhoneSimulator\Debug\WebSockets.Mobile.iOS.pdb
+=======
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.Service.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.Order.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.Rate.dll
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.dll.mdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Mobile.Service.Rate.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.Order.pdb
+D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile\WebSockets.Mobile.iOS\bin\iPhoneSimulator\Debug\WebSockets.Domain.Rate.pdb
+>>>>>>> master

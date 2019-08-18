@@ -1,17 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy/WebSockets.Api.Proxy.csproj",
+    "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Api.Proxy\\WebSockets.Api.Proxy.csproj",
     "projectName": "WebSockets.Api.Proxy",
-    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy/WebSockets.Api.Proxy.csproj",
-    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Api.Proxy/obj/",
+    "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Api.Proxy\\WebSockets.Api.Proxy.csproj",
+    "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Api.Proxy\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}

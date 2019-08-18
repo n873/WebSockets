@@ -1,22 +1,27 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj",
+    "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
     "projectName": "WebSockets.Mobile.Service.Order",
-    "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/WebSockets.Mobile.Service.Order.csproj",
-    "outputPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Mobile.Service.Order/obj/",
+    "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
+    "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"
     ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj": {
-            "projectPath": "/Users/nathanalard/Documents/WebSockets/WebSockets/WebSockets.Domain/WebSockets.Domain.csproj"
+          "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
+            "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
           }
         }
       }

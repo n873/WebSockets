@@ -19,26 +19,6 @@
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
         }
-      },
-      "WebSockets.Mobile.Android/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        }
-      },
-      "WebSockets.Mobile.iOS/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.1/win": {
@@ -58,26 +38,6 @@
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
-        }
-      },
-      "WebSockets.Mobile.Android/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        }
-      },
-      "WebSockets.Mobile.iOS/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
         }
       }
     },
@@ -99,26 +59,6 @@
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
         }
-      },
-      "WebSockets.Mobile.Android/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        }
-      },
-      "WebSockets.Mobile.iOS/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.7.1/win-x86": {
@@ -138,26 +78,6 @@
         },
         "runtime": {
           "lib/net45/Xamarin.UITest.dll": {}
-        }
-      },
-      "WebSockets.Mobile.Android/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.Android.dll": {}
-        }
-      },
-      "WebSockets.Mobile.iOS/1.0.0": {
-        "type": "project",
-        "framework": "Unsupported,Version=v0.0",
-        "compile": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebSockets.Mobile.iOS.dll": {}
         }
       }
     }
@@ -196,29 +116,22 @@
         "xamarin.uitest.2.2.7.nupkg.sha512",
         "xamarin.uitest.nuspec"
       ]
-    },
-    "WebSockets.Mobile.Android/1.0.0": {
-      "type": "project",
-      "path": "../WebSockets.Mobile.Android/WebSockets.Mobile.Android.csproj",
-      "msbuildProject": "../WebSockets.Mobile.Android/WebSockets.Mobile.Android.csproj"
-    },
-    "WebSockets.Mobile.iOS/1.0.0": {
-      "type": "project",
-      "path": "../WebSockets.Mobile.iOS/WebSockets.Mobile.iOS.csproj",
-      "msbuildProject": "../WebSockets.Mobile.iOS/WebSockets.Mobile.iOS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.1": [
       "NUnit >= 2.6.4",
-      "WebSockets.Mobile.Android >= 1.0.0",
-      "WebSockets.Mobile.iOS >= 1.0.0",
       "Xamarin.UITest >= 2.2.7"
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\natha\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+=======
+    "C:\\Users\\Nathan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
+>>>>>>> master
   },
   "project": {
     "version": "1.0.0",
@@ -231,7 +144,7 @@
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -246,6 +159,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
+<<<<<<< HEAD
         "net471": {
           "projectReferences": {
             "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj": {
@@ -255,6 +169,10 @@
               "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj"
             }
           }
+=======
+        "net461": {
+          "projectReferences": {}
+>>>>>>> master
         }
       }
     },
@@ -283,6 +201,7 @@
         "#import": []
       }
     }
+<<<<<<< HEAD
   },
   "logs": [
     {
@@ -358,4 +277,7 @@
       ]
     }
   ]
+=======
+  }
+>>>>>>> master
 }

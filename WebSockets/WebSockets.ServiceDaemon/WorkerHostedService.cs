@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Net.Http;
 using System.Text;
 using System.Threading;
@@ -34,13 +35,19 @@ namespace WebSockets.ServiceDaemon
 
                 var httpClient = new HttpClient();
 
+                Console.Write("Sending Order Update");
                 var orderUpdateResponse = await httpClient.PostAsync(OrderUpdateEndpoint, httpOrderUpdatesContent, CancellationToken.None);
                 orderUpdateResponse.EnsureSuccessStatusCode();
                 var orderUpdateResponseBody = await orderUpdateResponse.Content.ReadAsStringAsync();
+                Console.Write("Order Update Sent");
 
+                Console.Write("....");
+
+                Console.Write("Sending Rate Update");
                 var rateUpdateResponse = await httpClient.PostAsync(RateUpdateEndpoint, httpRateUpdatesContent, CancellationToken.None);
                 rateUpdateResponse.EnsureSuccessStatusCode();
                 var rateUpdateResponseBody = await rateUpdateResponse.Content.ReadAsStringAsync();
+                Console.Write("Rate Update Sent");
 
                 Thread.Sleep(5000);
             }

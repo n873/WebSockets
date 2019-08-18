@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.6.1": {
+    ".NETFramework,Version=v4.7.1": {
       "NUnit/2.6.4": {
         "type": "package",
         "compile": {
@@ -41,7 +41,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win": {
+    ".NETFramework,Version=v4.7.1/win": {
       "NUnit/2.6.4": {
         "type": "package",
         "compile": {
@@ -81,7 +81,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win-x64": {
+    ".NETFramework,Version=v4.7.1/win-x64": {
       "NUnit/2.6.4": {
         "type": "package",
         "compile": {
@@ -121,7 +121,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win-x86": {
+    ".NETFramework,Version=v4.7.1/win-x86": {
       "NUnit/2.6.4": {
         "type": "package",
         "compile": {
@@ -209,7 +209,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.6.1": [
+    ".NETFramework,Version=v4.7.1": [
       "NUnit >= 2.6.4",
       "WebSockets.Mobile.Android >= 1.0.0",
       "WebSockets.Mobile.iOS >= 1.0.0",
@@ -217,49 +217,49 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nathan\\.nuget\\packages\\": {},
+    "C:\\Users\\natha\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj",
+      "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj",
       "projectName": "WebSockets.Mobile.UITests",
-      "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj",
-      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\obj\\",
+      "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\WebSockets.Mobile.UITests.csproj",
+      "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.UITests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net461"
+        "net471"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net461": {
+        "net471": {
           "projectReferences": {
-            "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj": {
-              "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj"
+            "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj": {
+              "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.Android\\WebSockets.Mobile.Android.csproj"
             },
-            "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj": {
-              "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj"
+            "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj": {
+              "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "net461": {
+      "net471": {
         "dependencies": {
           "NUnit": {
             "target": "Package",
@@ -288,73 +288,73 @@
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1). Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "message": "Project WebSockets.Mobile.iOS is not compatible with net471 (.NETFramework,Version=v4.7.1). Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
       "libraryId": "WebSockets.Mobile.iOS",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1"
+        ".NETFramework,Version=v4.7.1"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.Android is not compatible with net461 (.NETFramework,Version=v4.6.1). Project WebSockets.Mobile.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "message": "Project WebSockets.Mobile.Android is not compatible with net471 (.NETFramework,Version=v4.7.1). Project WebSockets.Mobile.Android supports: monoandroid81 (MonoAndroid,Version=v8.1)",
       "libraryId": "WebSockets.Mobile.Android",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1"
+        ".NETFramework,Version=v4.7.1"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "message": "Project WebSockets.Mobile.iOS is not compatible with net471 (.NETFramework,Version=v4.7.1) / win. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
       "libraryId": "WebSockets.Mobile.iOS",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win"
+        ".NETFramework,Version=v4.7.1/win"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win. Project WebSockets.Mobile.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "message": "Project WebSockets.Mobile.Android is not compatible with net471 (.NETFramework,Version=v4.7.1) / win. Project WebSockets.Mobile.Android supports: monoandroid81 (MonoAndroid,Version=v8.1)",
       "libraryId": "WebSockets.Mobile.Android",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win"
+        ".NETFramework,Version=v4.7.1/win"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x64. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "message": "Project WebSockets.Mobile.iOS is not compatible with net471 (.NETFramework,Version=v4.7.1) / win-x64. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
       "libraryId": "WebSockets.Mobile.iOS",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win-x64"
+        ".NETFramework,Version=v4.7.1/win-x64"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x64. Project WebSockets.Mobile.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "message": "Project WebSockets.Mobile.Android is not compatible with net471 (.NETFramework,Version=v4.7.1) / win-x64. Project WebSockets.Mobile.Android supports: monoandroid81 (MonoAndroid,Version=v8.1)",
       "libraryId": "WebSockets.Mobile.Android",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win-x64"
+        ".NETFramework,Version=v4.7.1/win-x64"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x86. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "message": "Project WebSockets.Mobile.iOS is not compatible with net471 (.NETFramework,Version=v4.7.1) / win-x86. Project WebSockets.Mobile.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
       "libraryId": "WebSockets.Mobile.iOS",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win-x86"
+        ".NETFramework,Version=v4.7.1/win-x86"
       ]
     },
     {
       "code": "NU1201",
       "level": "Error",
-      "message": "Project WebSockets.Mobile.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x86. Project WebSockets.Mobile.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "message": "Project WebSockets.Mobile.Android is not compatible with net471 (.NETFramework,Version=v4.7.1) / win-x86. Project WebSockets.Mobile.Android supports: monoandroid81 (MonoAndroid,Version=v8.1)",
       "libraryId": "WebSockets.Mobile.Android",
       "targetGraphs": [
-        ".NETFramework,Version=v4.6.1/win-x86"
+        ".NETFramework,Version=v4.7.1/win-x86"
       ]
     }
   ]

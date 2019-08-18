@@ -15,8 +15,8 @@ namespace WebSockets.ServiceDaemon
     public class WorkerHostedService : BackgroundService
     {
         private const string MediaType = "application/json";
-        private const string OrderUpdateEndpoint = "https://localhost:6001/ordernotify";
-        private const string RateUpdateEndpoint = "https://localhost:6001/ratenotify";
+        private const string OrderUpdateEndpoint = "https://localhost:6001/orderupdate";
+        private const string RateUpdateEndpoint = "https://localhost:6001/rateupdate";
 
         private readonly Random Random = new Random();
 
@@ -24,7 +24,6 @@ namespace WebSockets.ServiceDaemon
         {
             while (!stoppingToken.IsCancellationRequested)
             {
-                
                 var newOrderUpdates = GenerateOrderUpdates();
                 var serializedOrderUpdatesObject = newOrderUpdates.Serialize();
                 var httpOrderUpdatesContent = new StringContent(serializedOrderUpdatesObject, Encoding.UTF8, MediaType);
@@ -43,7 +42,7 @@ namespace WebSockets.ServiceDaemon
                 rateUpdateResponse.EnsureSuccessStatusCode();
                 var rateUpdateResponseBody = await rateUpdateResponse.Content.ReadAsStringAsync();
 
-                Thread.Sleep(10000);
+                Thread.Sleep(5000);
             }
         }
         

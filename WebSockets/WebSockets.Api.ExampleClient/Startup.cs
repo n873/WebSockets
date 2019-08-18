@@ -38,12 +38,12 @@ namespace WebSockets.Api.ExampleClient
             }
 
             app.UseWebSockets();
-
+            app.UseMvc();
             app.MapWebSocketManager(_ratesWebSocketPath, serviceProvider.GetService<WebSocketHandler.RatesMessageHandler>());
             app.MapWebSocketManager(_orderStatusWebSocketPath, serviceProvider.GetService<WebSocketHandler.OrderStatusMessageHandler>());
 
             //app.UseHttpsRedirection();
-            app.UseMvc();
+            
         }
     }
 }

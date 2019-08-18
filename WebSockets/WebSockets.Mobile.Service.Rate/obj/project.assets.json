@@ -237,25 +237,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nathan\\.nuget\\packages\\": {},
+    "C:\\Users\\natha\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+      "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
       "projectName": "WebSockets.Mobile.Service.Rate",
-      "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
-      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\obj\\",
+      "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+      "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -269,8 +269,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
-              "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj"
+            "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
+              "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj"
             }
           }
         }

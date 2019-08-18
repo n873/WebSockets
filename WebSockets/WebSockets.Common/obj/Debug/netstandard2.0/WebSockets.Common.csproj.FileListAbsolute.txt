@@ -21,3 +21,12 @@ D:\Documents\WebSockets-master\WebSockets\WebSockets.Common\bin\Debug\netstandar
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Common\bin\Debug\netstandard2.0\WebSockets.Common.pdb
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\bin\Debug\netstandard2.0\WebSockets.Common.deps.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\bin\Debug\netstandard2.0\WebSockets.Common.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\bin\Debug\netstandard2.0\WebSockets.Common.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.csprojAssemblyReference.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.AssemblyInfoInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.AssemblyInfo.cs
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Common\obj\Debug\netstandard2.0\WebSockets.Common.pdb

@@ -1,0 +1,9 @@
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\bin\Debug\WebSockets.Mobile.UITests.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\bin\Debug\WebSockets.Mobile.UITests.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\bin\Debug\nunit.framework.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\bin\Debug\Xamarin.UITest.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\obj\Debug\WebSockets.Mobile.UITests.csprojAssemblyReference.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\obj\Debug\WebSockets.Mobile.UITests.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\obj\Debug\WebSockets.Mobile.UITests.csproj.CopyComplete
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\obj\Debug\WebSockets.Mobile.UITests.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile\WebSockets.Mobile.UITests\obj\Debug\WebSockets.Mobile.UITests.pdb

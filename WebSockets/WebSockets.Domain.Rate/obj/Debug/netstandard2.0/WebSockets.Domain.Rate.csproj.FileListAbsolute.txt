@@ -7,3 +7,12 @@ D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\bin\Debug\netst
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.csprojAssemblyReference.cache
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.deps.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\bin\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.csprojAssemblyReference.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.AssemblyInfoInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.AssemblyInfo.cs
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Domain.Rate\obj\Debug\netstandard2.0\WebSockets.Domain.Rate.pdb

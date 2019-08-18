@@ -2,6 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>Android_Accelerated_x86_Oreo</SelectedDevice>
-    <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
+    <DefaultDevice>VisualStudio_android-25_x86_phone</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

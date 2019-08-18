@@ -6,13 +6,13 @@ using WebSockets.Domain.Rate;
 
 namespace WebSockets.Api.ExampleClient.Controllers
 {
-    [Route("controller")]
+    [Route("[controller]")]
     [ApiController]
-    public class RateController : ControllerBase
+    public class RateUpdateController : ControllerBase
     {
         private readonly RatesMessageHandler RateMessageHandler;
 
-        public RateController(RatesMessageHandler ratesMessageHandler)
+        public RateUpdateController(RatesMessageHandler ratesMessageHandler)
         {
             RateMessageHandler = ratesMessageHandler;
         }

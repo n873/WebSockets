@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj": {}
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
         "projectName": "WebSockets.Common",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Common\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Common\\WebSockets.Common.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

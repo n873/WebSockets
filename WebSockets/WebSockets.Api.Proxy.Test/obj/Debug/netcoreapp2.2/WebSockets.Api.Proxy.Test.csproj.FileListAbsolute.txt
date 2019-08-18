@@ -29,3 +29,17 @@ D:\Documents\WebSockets-master\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\ne
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.AssemblyInfo.cs
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.deps.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.runtimeconfig.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.runtimeconfig.dev.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\bin\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.csprojAssemblyReference.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.AssemblyInfoInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.AssemblyInfo.cs
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Api.Proxy.Test\obj\Debug\netcoreapp2.2\WebSockets.Api.Proxy.Test.pdb

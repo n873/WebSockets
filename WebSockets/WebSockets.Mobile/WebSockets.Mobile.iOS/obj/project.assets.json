@@ -1361,24 +1361,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nathan\\.nuget\\packages\\": {},
+    "C:\\Users\\natha\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj",
+      "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj",
       "projectName": "WebSockets.Mobile.iOS",
-      "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj",
-      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\obj\\",
+      "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\WebSockets.Mobile.iOS.csproj",
+      "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1392,8 +1392,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {
-              "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj"
+            "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {
+              "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj"
             }
           }
         }

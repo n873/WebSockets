@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {}
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj",
         "projectName": "WebSockets.Domain.Order",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -62,21 +62,21 @@
         }
       }
     },
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
         "projectName": "WebSockets.Domain.Rate",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -120,21 +120,21 @@
         }
       }
     },
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
         "projectName": "WebSockets.Mobile.Service.Order",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -148,8 +148,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
-                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
+              "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
+                "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
               }
             }
           }
@@ -178,21 +178,21 @@
         }
       }
     },
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
         "projectName": "WebSockets.Mobile.Service.Rate",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -206,8 +206,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
-                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj"
+              "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj": {
+                "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Rate\\WebSockets.Domain.Rate.csproj"
               }
             }
           }
@@ -236,21 +236,21 @@
         }
       }
     },
-    "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {
+    "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
+        "projectUniqueName": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
         "projectName": "WebSockets.Mobile",
-        "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
-        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\obj\\",
+        "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\WebSockets.Mobile.csproj",
+        "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile\\WebSockets.Mobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -264,14 +264,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
-                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
+              "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj": {
+                "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Domain.Order\\WebSockets.Domain.Order.csproj"
               },
-              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj": {
-                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj"
+              "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj": {
+                "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Order\\WebSockets.Mobile.Service.Order.csproj"
               },
-              "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
-                "projectPath": "D:\\Documents\\WebSockets-master\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj"
+              "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj": {
+                "projectPath": "D:\\Documents\\Projects\\WebSockets\\WebSockets\\WebSockets.Mobile.Service.Rate\\WebSockets.Mobile.Service.Rate.csproj"
               }
             }
           }

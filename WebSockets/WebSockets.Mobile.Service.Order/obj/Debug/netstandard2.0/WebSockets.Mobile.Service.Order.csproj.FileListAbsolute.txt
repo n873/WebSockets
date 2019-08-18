@@ -24,3 +24,15 @@ D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Order\obj\De
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.pdb
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.dll
 D:\Documents\WebSockets-master\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.deps.json
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\bin\Debug\netstandard2.0\WebSockets.Domain.Order.pdb
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.csprojAssemblyReference.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.AssemblyInfoInputs.cache
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.AssemblyInfo.cs
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.csproj.CopyComplete
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.dll
+D:\Documents\Projects\WebSockets\WebSockets\WebSockets.Mobile.Service.Order\obj\Debug\netstandard2.0\WebSockets.Mobile.Service.Order.pdb

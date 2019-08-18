@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WebSockets.Mobile.MainPage">
     <StackLayout>
-        <Label Text="Message:" FontSize="18" FontAttributes="Bold">
-        </Label>
-        <Entry x:Name="Message">
-        </Entry>
-        <Button x:Name="GetOrderUpdates" Text="Get Order Updates" Clicked="GetOrderStatusUpdate" >
-        </Button>
-        <Button x:Name="GetRateUpdates" Text="Get Exchange Rate Updates" Clicked="GetRateUpdate" >
-        </Button>
+        <Label Text="Order Status:" FontSize="18" FontAttributes="Bold"></Label>
+        <Entry x:Name="OrderMessage"></Entry>
+        <Label Text="Exchange Rate Status" FontSize="18" FontAttributes="Bold"></Label>
+        <Entry x:Name="RateMessage"></Entry>
+        <Button x:Name="GetOrderUpdates" Text="Get Order Updates" Clicked="GetOrderStatusUpdate" ></Button>
+        <Button x:Name="GetRateUpdates" Text="Get Exchange Rate Updates" Clicked="GetRateUpdate" ></Button>
     </StackLayout>
 </ContentPage>

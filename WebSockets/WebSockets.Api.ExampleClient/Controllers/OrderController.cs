@@ -8,11 +8,11 @@ namespace WebSockets.Api.ExampleClient.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class OrderNotifyController : ControllerBase
+    public class OrderUpdateController : ControllerBase
     {
         private readonly OrderStatusMessageHandler _orderStatusMessageHandler;
         
-        public OrderNotifyController(OrderStatusMessageHandler orderStatusMessageHandler)
+        public OrderUpdateController(OrderStatusMessageHandler orderStatusMessageHandler)
         {
             _orderStatusMessageHandler = orderStatusMessageHandler;
         }

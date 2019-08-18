@@ -24,21 +24,21 @@ namespace WebSockets.Mobile
 
             OrderService.OrderUpdateRecieved += (s, o) =>
             {
-                Message.Text = string.Empty;
+                OrderMessage.Text = string.Empty;
 
                 foreach (var update in o.OrderUpdates)
                 {
-                    Message.Text += $"{update.Id} - {update.Status} {System.Environment.NewLine} ";
+                    OrderMessage.Text += $"{update.Id} - {update.Status} {System.Environment.NewLine} ";
                 }
             };
 
             RateService.RateUpdateReceived += (s, o) =>
             {
-                Message.Text = string.Empty;
+                RateMessage.Text = string.Empty;
 
                 foreach (var update in o.RateUpdates)
                 {
-                    Message.Text += $"{update.Currency} : {update.Value} - {update.Country} {System.Environment.NewLine}";
+                    RateMessage.Text += $"{update.Currency} : {update.Value} - {update.Country} {System.Environment.NewLine}";
                 }
             };
         }

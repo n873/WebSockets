@@ -51,7 +51,7 @@ namespace WebSockets.Api.Proxy
             };
 
             //app.UseWebSockets(webSocketOptions);
-             app.UseWebSockets(webSocketOptions).RunProxy(new Uri("ws://localhost:6000"));
+             app.UseWebSockets(webSocketOptions).RunProxy(new Uri("wss://localhost:6001"));
 
             //app.UseHttpsRedirection();
             app.UseMvc();

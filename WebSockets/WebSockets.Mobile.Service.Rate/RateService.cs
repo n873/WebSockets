@@ -42,7 +42,7 @@ namespace WebSockets.Mobile.Service.Rate
             ClientWebSocket = new ClientWebSocket(); 
             try
             {
-                await ClientWebSocket.ConnectAsync(new Uri($"ws://10.0.2.2:7000/ratenotify"), CancellationToken.None);
+                await ClientWebSocket.ConnectAsync(new Uri($"wss://10.0.2.2:7001/ratenotify"), CancellationToken.None);
 
                 await SendData(
                     new RateRequest(

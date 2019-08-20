@@ -34,15 +34,15 @@ namespace WebSockets.Api.ExampleClient
             }
             else
             {
-                //app.UseHsts();
+                app.UseHsts();
             }
+            app.UseHttpsRedirection();
 
             app.UseWebSockets();
             app.UseMvc();
             app.MapWebSocketManager(_ratesWebSocketPath, serviceProvider.GetService<WebSocketHandler.RatesMessageHandler>());
             app.MapWebSocketManager(_orderStatusWebSocketPath, serviceProvider.GetService<WebSocketHandler.OrderStatusMessageHandler>());
 
-            //app.UseHttpsRedirection();
             
         }
     }

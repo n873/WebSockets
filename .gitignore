@@ -83,3 +83,17 @@ WebSockets/WebSockets.Mobile/WebSockets.Mobile/bin/Debug/netstandard2.0/
 WebSockets/WebSockets.ServiceDaemon/obj/Debug/netcoreapp2.2/
 
 WebSockets/WebSockets.Mobile/WebSockets.Mobile/obj/Debug/netstandard2.0/WebSockets.Mobile.csprojAssemblyReference.cache
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile.iOS/obj/project.assets.json
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile.iOS/obj/WebSockets.Mobile.iOS.csproj.nuget.cache
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile.iOS/obj/WebSockets.Mobile.iOS.csproj.nuget.dgspec.json
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile.iOS/obj/WebSockets.Mobile.iOS.csproj.nuget.g.props
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile.iOS/obj/WebSockets.Mobile.iOS.csproj.nuget.g.targets
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+
+WebSockets/WebSockets.Mobile/WebSockets.Mobile/obj/Debug/netstandard2.0/MainPage.xaml.g.cs

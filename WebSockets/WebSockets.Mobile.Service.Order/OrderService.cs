@@ -44,7 +44,7 @@ namespace WebSockets.Mobile.Service.Order
             try
             {
 
-                await ClientWebSocket.ConnectAsync(new Uri($"ws://10.0.2.2:7000/ordernotify"), CancellationToken.None);
+                await ClientWebSocket.ConnectAsync(new Uri($"wss://10.0.2.2:7001/ordernotify"), CancellationToken.None);
 
                 await SendData(new OrderUpdateRequest(new List<OrderUpdate> { new OrderUpdate("1"), new OrderUpdate("2") }));
 
